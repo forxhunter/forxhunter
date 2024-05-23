@@ -95,10 +95,10 @@ _For a complete list of publications, please visit my [Google Scholar Profile](h
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [Issue Title](https://github.com/repository/issues/issue-number) in [Repository](https://github.com/repository)
+<!-- 1. 💬 Commented on [Issue Title](https://github.com/repository/issues/issue-number) in [Repository](https://github.com/repository)
 2. 🎉 Merged PR [#PR-Number](https://github.com/repository/pull/PR-Number) in [Repository](https://github.com/repository)
 3. ❗️ Closed issue [#Issue-Number](https://github.com/repository/issues/Issue-Number) in [Repository](https://github.com/repository)
-4. 💪 Opened PR [#PR-Number](https://github.com/repository/pull/PR-Number) in [Repository](https://github.com/repository) -->
+4. 💪 Opened PR [#PR-Number](https://github.com/repository/pull/PR-Number) in [Repository](https://github.com/repository) --> -->
 <!--END_SECTION:activity-->
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
