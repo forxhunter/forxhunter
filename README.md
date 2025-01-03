@@ -1,6 +1,6 @@
 # Hi there, I'm Tianyu Wu 👋
 
-![GitHub Profile Banner](./display_yeast.gif)
+![GitHub Profile Banner](./geometry_snapshot.png)
 
 ## About Me
 
