@@ -1,104 +1,38 @@
 # Hi there, I'm Tianyu Wu 👋
 
-![GitHub Profile Banner](./display_yeast.gif)
-
 ## About Me
 
-I am a Biophysics Graduate Student at University of Illinois, Urbana-Champaign, with a focus on Whole Cell Modeling(WCM). My work primarily revolves around building up a WCM for _S. Cerevisiae_. I am passionate about System biology and GPU programming.
+I am a Ph.D. candidate in Biophysics and Quantitative Biology at the University of Illinois at Urbana-Champaign (UIUC), focusing on Whole-Cell Modeling (WCM). My current research involves developing comprehensive computational models of the metabolic networks in baker's yeast (_Saccharomyces cerevisiae_), leveraging GPU parallel programming techniques. I am passionate about systems biology, computational modeling, and exploring nonlinear dynamics through interdisciplinary collaborations.
 
-- 🌱 I’m currently working on _S. Cerevisiae_ .
-- 👯 I’m looking to collaborate on WCM or other nonlinear dynamics system.
-- 📫 How to reach me: tianyu16 at illinois.edu
-- ⚡ Fun fact: [A Fun Fact About You]
+![yeast](3d_geo.png)
 
-<!-- ## Research Interests
-
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-- [Interest 4] -->
+- 🌱 I'm currently working on whole-cell metabolic modeling of _S. cerevisiae_.
+- 👯 I'm looking to collaborate on projects related to WCM, computational biophysics, or nonlinear dynamic systems.
+- 📫 How to reach me: [tianyu16@illinois.edu](mailto:tianyu16@illinois.edu)
+- ⚡ Fun fact: I enjoy visualizing biological structures through creative tools like Minecraft or Blender!
 
 ## Education
 
-- **Bachelor** in Physics, PKU, 2023
+- **Ph.D. in Biophysics and Quantitative Biology**, University of Illinois at Urbana-Champaign (UIUC), 2024 – Present
+- **Bachelor of Science in Biophysics (Dual Degree: Management)**, Peking University, 2022
 
+## Research Interests
 
-<!-- ## Publications -->
+- Whole-cell computational modeling
+- Systems biology and metabolic network analysis
+- GPU programming and computational optimizations
+- AI-assisted virtual cell modeling
 
-<!-- 1. **[Title of Paper 1]**  
-   _[Authors]_  
-   [Journal/Conference], [Year].  
-   [DOI/Link to Paper]
+## Publications
 
-2. **[Title of Paper 2]**  
-   _[Authors]_  
-   [Journal/Conference], [Year].  
-   [DOI/Link to Paper]
-
-3. **[Title of Paper 3]**  
-   _[Authors]_  
-   [Journal/Conference], [Year].  
-   [DOI/Link to Paper] -->
-
-_For a complete list of publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=YOURSCHOLARID)_
-
-<!-- ## Projects
-
-### [Project Title 1]
-**Description:** [Brief Description of the Project]  
-**Repository:** [Link to Repository]  
-**Technologies:** [List of Technologies Used]
-
-### [Project Title 2]
-**Description:** [Brief Description of the Project]  
-**Repository:** [Link to Repository]  
-**Technologies:** [List of Technologies Used]
-
-### [Project Title 3]
-**Description:** [Brief Description of the Project]  
-**Repository:** [Link to Repository]  
-**Technologies:** [List of Technologies Used] -->
-
-<!-- ## Professional Experience
-
-- **[Your Position]**  
-  _[Company/Institution], [Location]_  
-  [Start Date] - [End Date]  
-  - Responsibility 1
-  - Responsibility 2
-  - Responsibility 3
-
-- **[Your Position]**  
-  _[Company/Institution], [Location]_  
-  [Start Date] - [End Date]  
-  - Responsibility 1
-  - Responsibility 2
-  - Responsibility 3 -->
-
+1. **Wu T**, Thornburg ZR, Tan K, et al. "Visualizing Cell Structures with Minecraft." *The Biophysicist*. February 03, 2025. [doi: 10.35459/tbp.2024.000275](https://doi.org/10.35459/tbp.2024.000275)
+2. **Wu T**, et al. "Spatially-resolved stochastic simulation of the galactose regulatory network in *S. cerevisiae* via RDME-ODE hybrid method." *Journal of Physical Chemistry B* (In preparation)
+3. Thornburg ZR, Maytin A, …, **Wu T**, et al. "4D Simulation of a Minimal Cell Model." *Science.* (Submitted)
+   
 ## Skills
 
-- **Programming Languages:** python, C++, cuda
-<!-- - **Tools and Technologies:** [Tool 1], [Tool 2], [Tool 3]
-- **Methodologies:** [Methodology 1], [Methodology 2], [Methodology 3] -->
+- **Programming Languages:** Python, C++, CUDA, MATLAB
+- **Tools and Software:** AlphaFold2/3, Lattice Microbes, VMD, PyMOL, IMOD, ImageJ, Blender, Minecraft
+- **Methodologies:** Whole-cell modeling, stochastic simulations, multi-scale modeling, bioinformatics
 
-<!-- ## Contact
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOURPROFILE)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/YOURPROFILE)
-- **Website:** [Your Personal Website](https://yourwebsite.com) -->
-
-<!-- ## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- 1. 💬 Commented on [Issue Title](https://github.com/repository/issues/issue-number) in [Repository](https://github.com/repository)
-2. 🎉 Merged PR [#PR-Number](https://github.com/repository/pull/PR-Number) in [Repository](https://github.com/repository)
-3. ❗️ Closed issue [#Issue-Number](https://github.com/repository/issues/Issue-Number) in [Repository](https://github.com/repository)
-4. 💪 Opened PR [#PR-Number](https://github.com/repository/pull/PR-Number) in [Repository](https://github.com/repository) --> -->
-<!--END_SECTION:activity-->
-
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
+Thank you for visiting my profile! Feel free to reach out if you have questions or are interested in collaborating.
