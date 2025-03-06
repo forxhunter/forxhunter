@@ -1,10 +1,12 @@
-# Hi there, I'm Tianyu Wu 👋
+# Hi there, I'm Tianyu Wu
+
+![yeast](3d_geo.png)
 
 ## About Me
 
 I am a Ph.D. candidate in Biophysics and Quantitative Biology at the University of Illinois at Urbana-Champaign (UIUC), focusing on Whole-Cell Modeling (WCM). My current research involves developing comprehensive computational models of the metabolic networks in baker's yeast (_Saccharomyces cerevisiae_), leveraging GPU parallel programming techniques. I am passionate about systems biology, computational modeling, and exploring nonlinear dynamics through interdisciplinary collaborations.
 
-![yeast](3d_geo.png)
+
 
 - 🌱 I'm currently working on whole-cell metabolic modeling of _S. cerevisiae_.
 - 👯 I'm looking to collaborate on projects related to WCM, computational biophysics, or nonlinear dynamic systems.
@@ -27,8 +29,7 @@ I am a Ph.D. candidate in Biophysics and Quantitative Biology at the University 
 
 1. **Wu T**, Thornburg ZR, Tan K, et al. "Visualizing Cell Structures with Minecraft." *The Biophysicist*. February 03, 2025. [doi: 10.35459/tbp.2024.000275](https://doi.org/10.35459/tbp.2024.000275)
 2. **Wu T**, et al. "Spatially-resolved stochastic simulation of the galactose regulatory network in *S. cerevisiae* via RDME-ODE hybrid method." *Journal of Physical Chemistry B* (In preparation)
-3. Thornburg ZR, Maytin A, …, **Wu T**, et al. "4D Simulation of a Minimal Cell Model." *Science.* (Submitted)
-   
+
 ## Skills
 
 - **Programming Languages:** Python, C++, CUDA, MATLAB
