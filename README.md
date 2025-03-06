@@ -15,7 +15,7 @@ I am a Ph.D. candidate in Biophysics and Quantitative Biology at the University 
 
 ## Education
 
-- **Ph.D. in Biophysics and Quantitative Biology**, University of Illinois at Urbana-Champaign (UIUC), 2024 – Present
+- **Ph.D. in Biophysics and Quantitative Biology**, University of Illinois at Urbana-Champaign (UIUC), 2023 – Present
 - **Bachelor of Science in Biophysics (Dual Degree: Management)**, Peking University, 2022
 
 ## Research Interests
