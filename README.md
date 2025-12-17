@@ -13,5 +13,6 @@ There you'll find:
 
 Thanks for stopping by!
 
-[![My GitHub stats-Dark](https://vercel-github-repo.vercel.app/api?username=forxhunter&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![My GitHub stats-Light](https://vercel-github-repo.vercel.app/api?username=forxhunter&show_icons=true&theme=default#gh-light-mode-only)]
+[![My GitHub stats-Dark](https://vercel-github-repo.vercel.app/api?username=forxhunter&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/forxhunter#gh-dark-mode-only)
+[![My GitHub stats-Light](https://vercel-github-repo.vercel.app/api?username=forxhunter&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/forxhunter#gh-light-mode-only)
+
